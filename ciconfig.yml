@@ -1,0 +1,3 @@
+pipeline_template: templates/generic/Jenkinsfile
+reponame: app-utils
+repourl: ssh://git@bitbucket.infinera.com:7999/cuminf/app-utils.git
